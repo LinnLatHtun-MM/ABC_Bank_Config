@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to ABCBank accounts related Prod APIs"
   contactDetails:
     name: "Contact us at 1234567890"
-    email: "t8P8o@example.com"
+    email: "{cipher}6a6f73290eaa810be6b4c989cf6dd73b319ea5a9f5f74e3ca1f6a226e05e21220f9d38d4c7e9ba350a332072951663ed"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
