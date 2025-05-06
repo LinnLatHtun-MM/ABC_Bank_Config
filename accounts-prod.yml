@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to ABCBank accounts related Prod APIs"
+  message: "Welcome to ABCBank accounts related Production APIs"
   contactDetails:
     name: "Contact us at 1234567890"
     email: "{cipher}6a6f73290eaa810be6b4c989cf6dd73b319ea5a9f5f74e3ca1f6a226e05e21220f9d38d4c7e9ba350a332072951663ed"
