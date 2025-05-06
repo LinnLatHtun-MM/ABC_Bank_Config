@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to ABCBank cards related Prod APIs"
+  message: "Welcome to ABCBank cards related Production APIs"
   contactDetails:
     name: "Contact us at 1234567890"
     email: "t8P8o@example.com"
